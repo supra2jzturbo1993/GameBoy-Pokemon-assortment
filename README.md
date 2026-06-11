@@ -1,2 +1,2 @@
 # GameBoy-Pokemon-assortment
-just the roms for the gameboy 
+press on one of the names it should bring you to the code part then press view raw and you should get the download
